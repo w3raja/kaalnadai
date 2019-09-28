@@ -1,0 +1,30 @@
+.nav-item{
+    padding:2px;
+    margin-left: 7px;
+}
+
+nav {
+    -webkit-box-shadow: 0 6px 7px -8px #7b7575f2;
+    -moz-box-shadow: 0 6px 7px -8px #7b7575f2;
+    box-shadow: 0 6px 7px -8px #7b7575f2;
+    background-color: white; 
+
+   
+  }
+  
+  
+
+  nav li a{
+      text-transform: uppercase;
+      font-size: 14px;
+      font-weight: 600;
+      color: black;
+  }
+  
+  @media only screen and (max-width: 600px) {
+
+    #navbarCollapse{
+   text-align: center;
+   }
+ 
+     }

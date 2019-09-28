@@ -1,0 +1,51 @@
+.contact{
+    background-image: url(../../assets/contact-banner.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 550px;
+    
+}
+
+.space-110{
+    height: 110px;
+}
+
+.contact h1{
+    color: white;
+    font-size: 56px;
+}
+
+.contact hr{
+    width: 80px;
+    color: white;
+    border-top:3px solid white;
+    text-align: left;
+    margin:15px 0 15px 0;
+}
+
+.contact p{
+    color:white;
+    font-size: 18px;
+}
+
+.contact button{
+    color: white;
+    background-color: #7BB8B7;
+    padding: 10px 50px;
+    font-size:22px;
+    border:none;
+    border-radius: 15px;
+}
+
+.contact2 hr{
+    width: 80px;
+    border-top:2px solid #7BB8B7;
+}
+
+.contact2 i{
+    
+    color: #7bb8b7;
+    font-size: 30px;
+    padding-right: 15px;
+}

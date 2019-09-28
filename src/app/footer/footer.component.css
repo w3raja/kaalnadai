@@ -1,0 +1,28 @@
+
+footer {
+    background-color: #424242;
+    
+    padding-top:70px;
+    padding-bottom:70px;
+    /* margin-top:50px; */
+  }
+  
+  footer h6{
+      color:white;
+  }
+  
+  footer p{
+      color: #AFAFAF;
+      font-weight: 400;
+      line-height: 15px;
+      padding-top:20px;
+  }
+  
+  .copyright{
+      background-color:#313131;
+      padding:15px 0 5px 0;
+  }
+  
+  .copyright p{
+      color: #AFAFAF;
+  }

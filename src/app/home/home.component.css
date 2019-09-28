@@ -1,0 +1,116 @@
+.marquee .card p{
+    font-size: 13px;
+}
+
+.green-box li{
+    padding-left:20px;
+    color: white;
+}
+
+.green-box h6{
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+}
+.green-box {
+    background-color:#228786;
+  ;
+}
+
+.green-box ul{
+   margin:5px;
+
+}
+
+.green-box ul li:hover{
+ 
+    font-weight: 600;
+    cursor: pointer;
+ }
+
+.slider button{
+    background-color:#228786;
+    color: white;
+    padding:10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    border:none;
+    width: 100%;
+}
+
+#demo h3 {
+
+   
+}
+#demo p {
+    
+ }
+
+ #demo .carousel-caption{
+     background-color: rgba(19, 11, 11, 0.404);
+ }
+
+ .card-right .card-body {
+     padding:5px;
+
+ }
+
+ .card-right .card-title {
+
+    margin-bottom: 5px;
+    font-size: 12px;
+ }
+
+ .card-right .card-text {
+
+    font-size: 12px;
+ }
+
+ .books .card-title{
+     font-size: 14px;
+     font-weight: 600;
+ }
+
+ 
+ .books .card-text{
+    font-size: 14px;
+  
+}
+
+.books hr{
+    width: 120px;
+    border-top:2px solid #057e7c;
+}
+
+.books {
+    background-color: rgba(207, 202, 202, 0.575);
+    padding-top:60px;
+    padding-bottom: 60px;
+}
+
+.arrow {
+    color: black;
+}
+
+.arrow .carousel-control-next, .carousel-control-prev {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 15%;
+    color: black;
+    text-align: center;
+    opacity: 1;
+    transition: opacity .15s ease;
+}
+
+.marquee .carousel-indicators{
+    display: none;
+}
+
+.marquee .card{
+    margin: 15px 10px;
+}

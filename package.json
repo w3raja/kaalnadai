@@ -24,7 +24,7 @@
     "@angular/router": "~8.2.5",
     "@fortawesome/fontawesome-free": "^5.11.2",
     "bootstrap": "^4.3.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "font-awesome": "^4.7.0",
     "fontawesome": "^5.6.3",
     "jquery": "^3.4.1",
